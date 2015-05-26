@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: b46dc942fdd858b4f9c684f51621365d
+timeCreated: 1428422159
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Base
+    100002: Bolt
+    100004: Bolt1
+    100006: Bolt2
+    100008: Bottle
+    100010: Clip1
+    100012: Clip2
+    100014: Clip3
+    100016: CopperMuzzle
+    100018: //RootNode
+    100020: Handle
+    100022: Pin
+    100024: Pipe
+    100026: PipeEnd
+    100028: Ring
+    100030: Ring2
+    100032: Rings
+    100034: Spring
+    100036: SpringRing
+    100038: Top
+    100040: TopHandle
+    400000: Base
+    400002: Bolt
+    400004: Bolt1
+    400006: Bolt2
+    400008: Bottle
+    400010: Clip1
+    400012: Clip2
+    400014: Clip3
+    400016: CopperMuzzle
+    400018: //RootNode
+    400020: Handle
+    400022: Pin
+    400024: Pipe
+    400026: PipeEnd
+    400028: Ring
+    400030: Ring2
+    400032: Rings
+    400034: Spring
+    400036: SpringRing
+    400038: Top
+    400040: TopHandle
+    2300000: Base
+    2300002: Bolt
+    2300004: Bolt1
+    2300006: Bolt2
+    2300008: Bottle
+    2300010: Clip1
+    2300012: Clip2
+    2300014: Clip3
+    2300016: CopperMuzzle
+    2300018: Handle
+    2300020: Pin
+    2300022: Pipe
+    2300024: PipeEnd
+    2300026: Ring
+    2300028: Ring2
+    2300030: Rings
+    2300032: Spring
+    2300034: SpringRing
+    2300036: Top
+    2300038: TopHandle
+    3300000: Base
+    3300002: Bolt
+    3300004: Bolt1
+    3300006: Bolt2
+    3300008: Bottle
+    3300010: Clip1
+    3300012: Clip2
+    3300014: Clip3
+    3300016: CopperMuzzle
+    3300018: Handle
+    3300020: Pin
+    3300022: Pipe
+    3300024: PipeEnd
+    3300026: Ring
+    3300028: Ring2
+    3300030: Rings
+    3300032: Spring
+    3300034: SpringRing
+    3300036: Top
+    3300038: TopHandle
+    4300000: Base
+    4300002: Bolt
+    4300004: Bolt1
+    4300006: Bolt2
+    4300008: Bottle
+    4300010: Clip1
+    4300012: Clip2
+    4300014: Clip3
+    4300016: CopperMuzzle
+    4300018: Handle
+    4300020: Pin
+    4300022: Pipe
+    4300024: PipeEnd
+    4300026: Ring
+    4300028: Ring2
+    4300030: Rings
+    4300032: Spring
+    4300034: SpringRing
+    4300036: Top
+    4300038: TopHandle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

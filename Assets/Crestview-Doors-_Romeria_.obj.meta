@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: ade2946dbcc9ea145bac334ba0a116a9
+timeCreated: 1429636249
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Mesh10_G_4X24_GLASS_2_G_4X24_LITE_1_Model
+    100004: Mesh11_G_4X24_TRIM2_G_4X24_LITE_1_Model
+    100006: Mesh12_G_4X24_TRIM3_G_4X24_LITE_2_Model
+    100008: Mesh13_G_4X24_GLASS_3_G_4X24_LITE_2_Model
+    100010: Mesh14_G_4X24_GLASS_4_G_4X24_LITE_2_Model
+    100012: Mesh15_G_4X24_TRIM4_G_4X24_LITE_2_Model
+    100014: Mesh16_Dead_Bolt1_Model
+    100016: Mesh17_Hinge1_Model
+    100018: Mesh18_Hinge2_Model
+    100020: Mesh19_Hinge3_Model
+    100022: Mesh1_Group1_Model
+    100024: Mesh20_Model
+    100026: Mesh2_Group2_Model
+    100028: Mesh3_Knob_Half_16_1_Door_knob1_Model
+    100030: Mesh4_Knob_Half_16_2_Door_knob1_Model
+    100032: Mesh5_Group3_Jamb1_Model
+    100034: Mesh6_Group4_Jamb1_Model
+    100036: Mesh7_Group5_Jamb1_Model
+    100038: Mesh8_G_4X24_TRIM1_G_4X24_LITE_1_Model
+    100040: Mesh9_G_4X24_GLASS_1_G_4X24_LITE_1_Model
+    400000: //RootNode
+    400002: Mesh10_G_4X24_GLASS_2_G_4X24_LITE_1_Model
+    400004: Mesh11_G_4X24_TRIM2_G_4X24_LITE_1_Model
+    400006: Mesh12_G_4X24_TRIM3_G_4X24_LITE_2_Model
+    400008: Mesh13_G_4X24_GLASS_3_G_4X24_LITE_2_Model
+    400010: Mesh14_G_4X24_GLASS_4_G_4X24_LITE_2_Model
+    400012: Mesh15_G_4X24_TRIM4_G_4X24_LITE_2_Model
+    400014: Mesh16_Dead_Bolt1_Model
+    400016: Mesh17_Hinge1_Model
+    400018: Mesh18_Hinge2_Model
+    400020: Mesh19_Hinge3_Model
+    400022: Mesh1_Group1_Model
+    400024: Mesh20_Model
+    400026: Mesh2_Group2_Model
+    400028: Mesh3_Knob_Half_16_1_Door_knob1_Model
+    400030: Mesh4_Knob_Half_16_2_Door_knob1_Model
+    400032: Mesh5_Group3_Jamb1_Model
+    400034: Mesh6_Group4_Jamb1_Model
+    400036: Mesh7_Group5_Jamb1_Model
+    400038: Mesh8_G_4X24_TRIM1_G_4X24_LITE_1_Model
+    400040: Mesh9_G_4X24_GLASS_1_G_4X24_LITE_1_Model
+    2300000: Mesh10_G_4X24_GLASS_2_G_4X24_LITE_1_Model
+    2300002: Mesh11_G_4X24_TRIM2_G_4X24_LITE_1_Model
+    2300004: Mesh12_G_4X24_TRIM3_G_4X24_LITE_2_Model
+    2300006: Mesh13_G_4X24_GLASS_3_G_4X24_LITE_2_Model
+    2300008: Mesh14_G_4X24_GLASS_4_G_4X24_LITE_2_Model
+    2300010: Mesh15_G_4X24_TRIM4_G_4X24_LITE_2_Model
+    2300012: Mesh16_Dead_Bolt1_Model
+    2300014: Mesh17_Hinge1_Model
+    2300016: Mesh18_Hinge2_Model
+    2300018: Mesh19_Hinge3_Model
+    2300020: Mesh1_Group1_Model
+    2300022: Mesh20_Model
+    2300024: Mesh2_Group2_Model
+    2300026: Mesh3_Knob_Half_16_1_Door_knob1_Model
+    2300028: Mesh4_Knob_Half_16_2_Door_knob1_Model
+    2300030: Mesh5_Group3_Jamb1_Model
+    2300032: Mesh6_Group4_Jamb1_Model
+    2300034: Mesh7_Group5_Jamb1_Model
+    2300036: Mesh8_G_4X24_TRIM1_G_4X24_LITE_1_Model
+    2300038: Mesh9_G_4X24_GLASS_1_G_4X24_LITE_1_Model
+    3300000: Mesh10_G_4X24_GLASS_2_G_4X24_LITE_1_Model
+    3300002: Mesh11_G_4X24_TRIM2_G_4X24_LITE_1_Model
+    3300004: Mesh12_G_4X24_TRIM3_G_4X24_LITE_2_Model
+    3300006: Mesh13_G_4X24_GLASS_3_G_4X24_LITE_2_Model
+    3300008: Mesh14_G_4X24_GLASS_4_G_4X24_LITE_2_Model
+    3300010: Mesh15_G_4X24_TRIM4_G_4X24_LITE_2_Model
+    3300012: Mesh16_Dead_Bolt1_Model
+    3300014: Mesh17_Hinge1_Model
+    3300016: Mesh18_Hinge2_Model
+    3300018: Mesh19_Hinge3_Model
+    3300020: Mesh1_Group1_Model
+    3300022: Mesh20_Model
+    3300024: Mesh2_Group2_Model
+    3300026: Mesh3_Knob_Half_16_1_Door_knob1_Model
+    3300028: Mesh4_Knob_Half_16_2_Door_knob1_Model
+    3300030: Mesh5_Group3_Jamb1_Model
+    3300032: Mesh6_Group4_Jamb1_Model
+    3300034: Mesh7_Group5_Jamb1_Model
+    3300036: Mesh8_G_4X24_TRIM1_G_4X24_LITE_1_Model
+    3300038: Mesh9_G_4X24_GLASS_1_G_4X24_LITE_1_Model
+    4300000: Mesh10_G_4X24_GLASS_2_G_4X24_LITE_1_Model
+    4300002: Mesh11_G_4X24_TRIM2_G_4X24_LITE_1_Model
+    4300004: Mesh12_G_4X24_TRIM3_G_4X24_LITE_2_Model
+    4300006: Mesh13_G_4X24_GLASS_3_G_4X24_LITE_2_Model
+    4300008: Mesh14_G_4X24_GLASS_4_G_4X24_LITE_2_Model
+    4300010: Mesh15_G_4X24_TRIM4_G_4X24_LITE_2_Model
+    4300012: Mesh16_Dead_Bolt1_Model
+    4300014: Mesh17_Hinge1_Model
+    4300016: Mesh18_Hinge2_Model
+    4300018: Mesh19_Hinge3_Model
+    4300020: Mesh1_Group1_Model
+    4300022: Mesh20_Model
+    4300024: Mesh2_Group2_Model
+    4300026: Mesh3_Knob_Half_16_1_Door_knob1_Model
+    4300028: Mesh4_Knob_Half_16_2_Door_knob1_Model
+    4300030: Mesh5_Group3_Jamb1_Model
+    4300032: Mesh6_Group4_Jamb1_Model
+    4300034: Mesh7_Group5_Jamb1_Model
+    4300036: Mesh8_G_4X24_TRIM1_G_4X24_LITE_1_Model
+    4300038: Mesh9_G_4X24_GLASS_1_G_4X24_LITE_1_Model
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
